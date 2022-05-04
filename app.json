@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "Bsee",
+  "description": "Bsee",
   "keywords": [
     "vmess or vles"
   ],
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/listenAsee/Bsee",
+  "repository": "https://github.com/listenAsee/Bsee",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
